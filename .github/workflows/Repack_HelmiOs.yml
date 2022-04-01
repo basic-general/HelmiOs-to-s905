@@ -16,7 +16,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/radityabh/amlogic-s9xxx-openwrt
+  REPO_URL: https://github.com/basic-general/amlogic-s9xxx-openwrt
   REPO_BRANCH: main
   HELMIWRT_REL: https://github.com/helmiau/HelmiWrt-OS/releases/download/helmiwrt
   HELMIWRT_FILENAME: helmiwrt-bcm27xx-bcm2710-rpi-3-rootfs.tar.gz
